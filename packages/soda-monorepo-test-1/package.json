@@ -1,0 +1,19 @@
+{
+  "name": "soda-monorepo-test-1",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Haoqun Jiang <haoqunjiang@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/soda-monorepo-test-1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
