@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.3](https://github.com/sodatea/npm-test/compare/soda-monorepo-version-marker@1.1.2...soda-monorepo-version-marker@1.1.3) (2018-11-12)
+
+
+### Bug Fixes
+
+* fix package name ([ba25b1f](https://github.com/sodatea/npm-test/commit/ba25b1f))
+
+
+
+
+
 ## 1.1.2 (2018-11-12)
 
 
