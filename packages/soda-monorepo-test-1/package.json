@@ -1,7 +1,6 @@
 {
   "name": "soda-monorepo-test-1",
   "version": "1.0.1",
-  "private": true,
   "description": "> TODO: description",
   "author": "Haoqun Jiang <haoqunjiang@gmail.com>",
   "homepage": "",
@@ -16,5 +15,8 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "soda-monorepo-test-3": "1.0.1"
   }
 }

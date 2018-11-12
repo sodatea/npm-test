@@ -1,7 +1,6 @@
 {
   "packages": [
-    "packages/soda-monorepo-test-2",
-    "packages/soda-monorepo-test-3"
+    "packages/*"
   ],
   "version": "independent"
 }

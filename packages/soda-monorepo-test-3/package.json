@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/sodatea/npm-test/issues"
   },
-  "homepage": "https://github.com/sodatea/npm-test#readme"
+  "homepage": "https://github.com/sodatea/npm-test#readme",
+  "devDependencies": {
+    "soda-monorepo-test-1": "1.0.1"
+  }
 }
