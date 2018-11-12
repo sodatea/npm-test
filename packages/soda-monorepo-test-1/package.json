@@ -1,6 +1,6 @@
 {
   "name": "soda-monorepo-test-1",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "> TODO: description",
   "author": "Haoqun Jiang <haoqunjiang@gmail.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "soda-monorepo-version-marker": "^1.1.0"
+    "soda-monorepo-version-marker": "^1.1.2"
   },
   "gitHead": "cc18c38e6fe542b0ff3b116e4a4fa0e9f93069da"
 }
