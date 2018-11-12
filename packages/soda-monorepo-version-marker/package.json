@@ -26,5 +26,6 @@
   "homepage": "https://github.com/sodatea/npm-test#readme",
   "devDependencies": {
     "soda-monorepo-test-1": "^1.1.0"
-  }
+  },
+  "gitHead": "f9a5acb46106e22be5c24f1b333529f23395451e"
 }

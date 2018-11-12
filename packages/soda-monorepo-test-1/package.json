@@ -17,6 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "soda-monorepo-test-3": "^1.1.0"
-  }
+    "soda-monorepo-version-marker": "^1.1.0"
+  },
+  "gitHead": "f9a5acb46106e22be5c24f1b333529f23395451e"
 }
