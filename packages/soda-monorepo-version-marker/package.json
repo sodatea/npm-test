@@ -1,5 +1,5 @@
 {
-  "name": "soda-monorepo-test-3",
+  "name": "soda-monorepo-version-marker",
   "version": "1.1.1",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -27,5 +27,5 @@
   "devDependencies": {
     "soda-monorepo-test-1": "^1.1.1"
   },
-  "gitHead": "f9a5acb46106e22be5c24f1b333529f23395451e"
+  "gitHead": "cc18c38e6fe542b0ff3b116e4a4fa0e9f93069da"
 }
